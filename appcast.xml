@@ -5,27 +5,37 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
+            <title>Version 1.1 (2 bugs fixed; 3 new features)</title>
             <sparkle:releaseNotesLink>
                 http://localhost/huion/renotes/renotes.2.0.html
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="http://localhost/huion/%20Great%20App%202.0.zip" sparkle:version="2.0" length="1623481" type="application/octet-stream" sparkle:dsaSignature="MEQCIEWOGv2Czy5AkxQ7kJcuxcUbMI+n+Q2UW4xd16U5pk9WAiAWTFF+uDThaz73
-WQmMgzprEDfcVaqz2EYRL1YsLn8Y0A==" />
+            <enclosure url="http://localhost/silk/AReader_1.1.zip" sparkle:version="1.1" length="1505070" type="application/octet-stream" sparkle:dsaSignature="MEQCICzW8QMvOY1CeA/jeiiBKSz7/e3Ms0wcnLTOAArCUQ4qAiB+56j3LE/R6eHP
+9IbE0aGHmc1RtN7V4KAHhQE+4+bGeA==" />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
 
-        <!-- Now here's an example of a version with a weird internal version number (like an SVN revision) but a human-readable external one. -->
-       <!--
-	 <item>
-            <title>Version 1.4 (5 bugs fixed; 2 new features)</title>
+        <item>
+            <title>Version 1.2 (2 bugs fixed; 3 new features)</title>
             <sparkle:releaseNotesLink>
-                http://you.com/app/1.4.html
+                http://localhost/huion/renotes/renotes.2.0.html
             </sparkle:releaseNotesLink>
-            <pubDate>Wed, 25 Dec 2005 12:20:11 +0000</pubDate>
-            <enclosure url="http://you.com/app/Your%20Great%20App%201.4.zip" sparkle:version="241" sparkle:shortVersionString="1.4" sparkle:dsaSignature="MEUCIHhVFo4ehZCiDq+WKfG9ZlLL3rJBwAGcezzqkRFEFgfGAiEAjKzDpEnZ7ycc" length="1472349" type="application/octet-stream" />
+            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
+            <enclosure url="http://localhost/silk/AReader_1.2.zip" sparkle:version="1.2" length="1505118" type="application/octet-stream" sparkle:dsaSignature="MEYCIQCTkQuIhdWy6GUVkt7ypRzO8jvLoBeFzb6j8C84nBkYUAIhAKITXiRfVrQ1
+/ufTm1HKvyhwH/HkOLjWoQGL6MDZ0KhQ" />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
-	-->
+
+        <item>
+            <title>Version 1.3 (1 bugs fixed; 3 new features)</title>
+            <sparkle:releaseNotesLink>
+                http://localhost/huion/renotes/renotes.2.0.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
+            <enclosure url="http://localhost/silk/AReader_1.3.zip" sparkle:version="1.3" length="1505115" type="application/octet-stream" sparkle:dsaSignature="MEQCIBrI9ZwPQAcfbRi7koHpLoJhezELmKpizMOce5hBV3fBAiAZtDxY55qbcB7t
+ZsM860twhlsVaxoEfV5XbZg1ojNlhg==" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
