@@ -7,42 +7,8 @@
         <item>
             <title>Version 1.1 (2 bugs fixed; 3 new features)</title>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="http://localhost/silk/AReader_1.1.zip" sparkle:version="1.1" length="1505070" type="application/octet-stream" sparkle:dsaSignature="MEQCICzW8QMvOY1CeA/jeiiBKSz7/e3Ms0wcnLTOAArCUQ4qAiB+56j3LE/R6eHP
-9IbE0aGHmc1RtN7V4KAHhQE+4+bGeA==" />
-            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-        </item>
-
-        <item>
-            <title>Version 1.2 (2 bugs fixed; 3 new features)</title>
-            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="http://localhost/silk/AReader_1.2.zip" sparkle:version="1.2" length="1505118" type="application/octet-stream" sparkle:dsaSignature="MEYCIQCTkQuIhdWy6GUVkt7ypRzO8jvLoBeFzb6j8C84nBkYUAIhAKITXiRfVrQ1
-/ufTm1HKvyhwH/HkOLjWoQGL6MDZ0KhQ" />
-            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-        </item>
-
-        <item>
-            <title>Version 1.3 (1 bugs fixed; 3 new features)</title>
-            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="http://localhost/silk/AReader_1.3.zip" sparkle:version="1.3" length="1505115" type="application/octet-stream" sparkle:dsaSignature="MEQCIBrI9ZwPQAcfbRi7koHpLoJhezELmKpizMOce5hBV3fBAiAZtDxY55qbcB7t
-ZsM860twhlsVaxoEfV5XbZg1ojNlhg==" />
-            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-        </item>
-        
-        <item>
-            <title>Version 1.5 (3 bugs fixed; 2 new features)</title>
-            <pubDate>2018年 4月19日 CST</pubDate>
-            
-            <enclosure url="https://github.com/SilkTTsWu/SpringCloud_ConfigDemo/blob/SilkTTsWu-patch-1_TestSparkle/AReader_1.5.zip" sparkle:version="1.5" length="1505109" type="application/octet-stream" sparkle:dsaSignature="MEQCIDjqoR8DDpvj+Gf2usKLUVBnG53mA6qgb4MZta2Q4y/iAiAIJj9yfo4yJezU
-bb2Cz/tqhuZHOo3PCeaV4lVtrlA9fQ=="/>
-            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-        </item>
-
-        <item>
-            <title>Version 2 (3 bugs fixed; 2 new features)</title>
-            <pubDate>2018年 4月19日 CST</pubDate>
-            
-            <enclosure url="https://github.com/SilkTTsWu/SpringCloud_ConfigDemo/blob/SilkTTsWu-patch-1_TestSparkle/AReader_2.zip" sparkle:version="2" length="1505109" type="application/octet-stream" sparkle:dsaSignature="MEUCIQCeFsNVsMFUO0l+ZF6ZYL61VNaKODQpdXIhUn6pLAXRyAIgdDALCMAXLnc9
-Jerwo2E+Iyz2Hg/lWywlTmRQO76F0x8="/>
+            <enclosure url="http://localhost/silk/AReader_1.1.zip" sparkle:version="1248" length="1505106" type="application/octet-stream" sparkle:dsaSignature="MEUCIF+2D5bxjIbYHZ7kGryQYWZoFSfV/kpvqqMzkpBATE9WAiEAlJAsGehY8NqU
+h6gJ1brfmFE+qtBmvcNm43bn8ak1UQw=" />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
     </channel>
