@@ -37,5 +37,13 @@ bb2Cz/tqhuZHOo3PCeaV4lVtrlA9fQ=="/>
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
 
+        <item>
+            <title>Version 2 (3 bugs fixed; 2 new features)</title>
+            <pubDate>2018年 4月19日 CST</pubDate>
+            
+            <enclosure url="https://github.com/SilkTTsWu/SpringCloud_ConfigDemo/blob/SilkTTsWu-patch-1_TestSparkle/AReader_2.zip" sparkle:version="2" length="1505109" type="application/octet-stream" sparkle:dsaSignature="MEUCIQCeFsNVsMFUO0l+ZF6ZYL61VNaKODQpdXIhUn6pLAXRyAIgdDALCMAXLnc9
+Jerwo2E+Iyz2Hg/lWywlTmRQO76F0x8="/>
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
