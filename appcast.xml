@@ -7,7 +7,7 @@
         <item>
             <title>Version 1.1 (2 bugs fixed; 3 new features)</title>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="http://localhost/silk/AReader_1.1.zip" sparkle:version="1248" length="1505106" type="application/octet-stream" sparkle:dsaSignature="MEUCIF+2D5bxjIbYHZ7kGryQYWZoFSfV/kpvqqMzkpBATE9WAiEAlJAsGehY8NqU
+            <enclosure url="http://localhost/silk/AReader_1.1.zip" sparkle:version="1.1" length="1505106" type="application/octet-stream" sparkle:dsaSignature="MEUCIF+2D5bxjIbYHZ7kGryQYWZoFSfV/kpvqqMzkpBATE9WAiEAlJAsGehY8NqU
 h6gJ1brfmFE+qtBmvcNm43bn8ak1UQw=" />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
