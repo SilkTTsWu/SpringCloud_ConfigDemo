@@ -25,5 +25,12 @@ h6gJ1brfmFE+qtBmvcNm43bn8ak1UQw=" />
 xGtsMYEUAn7TrtSdBUfdTl1OdHwgnQ==" />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
+        <item>
+            <title>Version 1.4 (1 bugs fixed; 3 new features)</title>
+            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
+            <enclosure url=" http://127.0.0.1/silk/AReader_1.4.zip" sparkle:version="1.4" length="1505804" type="application/octet-stream" sparkle:dsaSignature="MEUCIG/ED6wBN+pDNbwIxdh84Es0U9FAwIs4orCR/1U+1eQHAiEAlvrjQLbsnO/i
+0wOM9efnnSa74EYPuApqhJx4bxsCQoM=" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
