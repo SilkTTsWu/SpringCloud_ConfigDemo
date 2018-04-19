@@ -31,7 +31,9 @@ ZsM860twhlsVaxoEfV5XbZg1ojNlhg==" />
         <item>
             <title>Version 1.4 (3 bugs fixed; 2 new features)</title>
             <pubDate>2018年 4月19日 星期四 08时20分31秒 CST</pubDate>
-            <enclosure url="http://localhost/silk/AReader_1.4.zip" sparkle:version="1.4" length="1505111" type="application/octet-stream"/>
+            
+            <enclosure url="http://localhost/silk/AReader_1.4.zip" sparkle:version="1.4" length="1505111" type="application/octet-stream" sparkle:dsaSignature="MEUCIQCj6V4JGVn+R1MFs5zQ9ul/2NxxfoUJNSVGHGYG4P7MjwIgTSyWASwBcsVy
+qKpit27l4+/qmX5+reMnaGydGj5zON8="/>
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
 
