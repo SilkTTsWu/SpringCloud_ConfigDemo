@@ -29,11 +29,11 @@ ZsM860twhlsVaxoEfV5XbZg1ojNlhg==" />
         </item>
         
         <item>
-            <title>Version 1.4 (3 bugs fixed; 2 new features)</title>
-            <pubDate>2018年 4月19日 星期四 08时20分31秒 CST</pubDate>
+            <title>Version 1.5 (3 bugs fixed; 2 new features)</title>
+            <pubDate>2018年 4月19日 CST</pubDate>
             
-            <enclosure url="https://github.com/SilkTTsWu/SpringCloud_ConfigDemo/blob/SilkTTsWu-patch-1_TestSparkle/AReader_1.4.zip" sparkle:version="1.4" length="1505111" type="application/octet-stream" sparkle:dsaSignature="MEUCIQCj6V4JGVn+R1MFs5zQ9ul/2NxxfoUJNSVGHGYG4P7MjwIgTSyWASwBcsVy
-qKpit27l4+/qmX5+reMnaGydGj5zON8="/>
+            <enclosure url="https://github.com/SilkTTsWu/SpringCloud_ConfigDemo/blob/SilkTTsWu-patch-1_TestSparkle/AReader_1.5.zip" sparkle:version="1.5" length="1505109" type="application/octet-stream" sparkle:dsaSignature="MEQCIDjqoR8DDpvj+Gf2usKLUVBnG53mA6qgb4MZta2Q4y/iAiAIJj9yfo4yJezU
+bb2Cz/tqhuZHOo3PCeaV4lVtrlA9fQ=="/>
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
 
