@@ -6,9 +6,6 @@
         <language>en</language>
         <item>
             <title>Version 1.1 (2 bugs fixed; 3 new features)</title>
-            <sparkle:releaseNotesLink>
-                http://localhost/huion/renotes/renotes.2.0.html
-            </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
             <enclosure url="http://localhost/silk/AReader_1.1.zip" sparkle:version="1.1" length="1505070" type="application/octet-stream" sparkle:dsaSignature="MEQCICzW8QMvOY1CeA/jeiiBKSz7/e3Ms0wcnLTOAArCUQ4qAiB+56j3LE/R6eHP
 9IbE0aGHmc1RtN7V4KAHhQE+4+bGeA==" />
@@ -17,9 +14,6 @@
 
         <item>
             <title>Version 1.2 (2 bugs fixed; 3 new features)</title>
-            <sparkle:releaseNotesLink>
-                http://localhost/huion/renotes/renotes.2.0.html
-            </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
             <enclosure url="http://localhost/silk/AReader_1.2.zip" sparkle:version="1.2" length="1505118" type="application/octet-stream" sparkle:dsaSignature="MEYCIQCTkQuIhdWy6GUVkt7ypRzO8jvLoBeFzb6j8C84nBkYUAIhAKITXiRfVrQ1
 /ufTm1HKvyhwH/HkOLjWoQGL6MDZ0KhQ" />
