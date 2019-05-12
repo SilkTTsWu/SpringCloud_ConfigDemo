@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Your Great App's Changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1 (2 bugs fixed; 3 new features)</title>
+            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
+            <enclosure url="http://localhost/silk/AReader_1.1.zip" sparkle:version="1.1" length="1505106" type="application/octet-stream" sparkle:dsaSignature="MEUCIF+2D5bxjIbYHZ7kGryQYWZoFSfV/kpvqqMzkpBATE9WAiEAlJAsGehY8NqU
+h6gJ1brfmFE+qtBmvcNm43bn8ak1UQw=" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.2 (2 bugs fixed; 3 new features)</title>
+            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
+            <enclosure url="http://localhost/silk/AReader_1.2.zip" sparkle:version="1.2" length="1505094" type="application/octet-stream" sparkle:dsaSignature="MEQCIH3b0Foxy2cqHl2fXSYrjS3dw0lfaI70AfL38hYAUD3DAiA0BmEiEu7zhJEy
++ofHzyr8rXjHkDuFn0fkZdGaeE0xfw==" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.3 (2 bugs fixed; 3 new features)</title>
+            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
+            <enclosure url="http://127.0.0.1/silk/AReader_1.3.zip" sparkle:version="1.3" length="1505094" type="application/octet-stream" sparkle:dsaSignature="MEQCIAZhZkJ9Af0vTYUtmTpE2Rdh9/qddCZaiactY+XD5T2zAiAEmBBiXyW6cz1y
+xGtsMYEUAn7TrtSdBUfdTl1OdHwgnQ==" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.4 (1 bugs fixed; 3 new features)</title>
+            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
+            <enclosure url=" http://127.0.0.1/silk/AReader_1.4.zip" sparkle:version="1.4" length="1505804" type="application/octet-stream" sparkle:dsaSignature="MEUCIG/ED6wBN+pDNbwIxdh84Es0U9FAwIs4orCR/1U+1eQHAiEAlvrjQLbsnO/i
+0wOM9efnnSa74EYPuApqhJx4bxsCQoM=" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
